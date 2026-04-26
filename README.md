@@ -110,7 +110,11 @@ de Twemoji para que se vean igual en todos los navegadores.
 
 ## Capturas
 
-> _Pendiente: capturas / GIFs._
+<img src="dashboard.png" alt="dashboard" width="300">
+<img src="Pastel.png" alt="Pastel" width="300">
+<img src="Foto.png" alt="Foto" width="300">
+<img src="Minimalista.png" alt="Minimalista" width="300">
+<img src="Neon.png" alt="Neon" width="300">
 
 ---
 
