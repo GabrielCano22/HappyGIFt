@@ -118,10 +118,5 @@ de Twemoji para que se vean igual en todos los navegadores.
 
 ---
 
-## Licencia
-
-MIT — usar, copiar y modificar.
-
----
 
 Hecho por [Gabriel Cano](https://github.com/GabrielCano22).
